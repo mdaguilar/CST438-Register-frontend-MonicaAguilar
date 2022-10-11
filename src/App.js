@@ -4,7 +4,7 @@ import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import SchedList from './components/SchedList';
 import Semester from './components/Semester';
-import Admin from './components/Semester';
+import Admin from './components/Admin';
 import {BrowserRouter, Switch, Route} from 'react-router-dom';
 
 function App() {
